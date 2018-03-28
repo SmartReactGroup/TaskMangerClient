@@ -1,4 +1,4 @@
-# Task Manger
+# Task Manger app
 
 ### A Boilerplate for Scalable Cross-Platform Desktop Apps
 
